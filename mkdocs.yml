@@ -1,0 +1,9 @@
+site_name: Active Agent
+site_url: https://docs.activeagents.ai
+theme:
+  name: material
+  palette:
+    scheme: default
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to dark mode
